@@ -1,0 +1,17 @@
+body {
+    scroll-behavior: smooth;
+  }
+  
+  section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .card-title {
+    color: #007bff;
+  }
+  
+  .card-text {
+    font-size: 0.95rem;
+  }
+  
