@@ -20,6 +20,7 @@ It demonstrates the reengineering of a basic HTML/CSS/JS portfolio website into 
 - HTML5
 - CSS3
 - JavaScript (basic)
+  
   ![](before.jpeg)
   
 ### 🔹 After Reengineering
@@ -28,6 +29,7 @@ It demonstrates the reengineering of a basic HTML/CSS/JS portfolio website into 
 - JavaScript
 - Responsive Design
 - Modular Folder Structure
+  
   ![](after.jpeg)
 
 ---
